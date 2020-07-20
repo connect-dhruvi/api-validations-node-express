@@ -1,0 +1,4 @@
+{
+    "mongoDBConnectURI": "mongodb+srv://dhruvi:dhruvi@cluster0.ylkd7.mongodb.net/mernclass?retryWrites=true&w=majority"
+}
+  
